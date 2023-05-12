@@ -32,3 +32,5 @@ My GitHub page is http://github.com/AdrianBocanegra.
     initialize the secret number with “./secret” and guess the number with
     “./guess”. This minor detail made the lab feel more interactive. I learned
     how to use I/O file classes.
+
+I love computer science!
