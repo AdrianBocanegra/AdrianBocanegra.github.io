@@ -4,7 +4,7 @@ This is my home page! My name is Adrian Bocanegra and I am a student at [Cal Sta
 
 ## Computer Science Projects
 
-My GitHub page is http://github.com/AdrianBocanegra.
+My GitHub page is http://github.com/AdrianLBoc.
 
 ### CPSC 120
 
@@ -32,5 +32,3 @@ My GitHub page is http://github.com/AdrianBocanegra.
     initialize the secret number with “./secret” and guess the number with
     “./guess”. This minor detail made the lab feel more interactive. I learned
     how to use I/O file classes.
-
-I love computer science!
